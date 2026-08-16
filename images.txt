@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 eclipse-temurin:21-jre
 mysql:8.0.39
-redis.6.0.9
+redis:7.2
