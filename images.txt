@@ -7,4 +7,4 @@ xhofe/alist:latest
 eclipse-temurin:21-jre
 mysql:8.0.39
 redis:7.2
-kdvolder/jdk8
+kdvolder/jdk8:latest
